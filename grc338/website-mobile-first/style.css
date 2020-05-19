@@ -18,7 +18,7 @@ div.img {
 nav ul {
     padding-bottom: 1em;
     padding-left: 1em;
-    margin-left: 1.5em;
+    margin: auto;
 }
 
 nav ul li {
