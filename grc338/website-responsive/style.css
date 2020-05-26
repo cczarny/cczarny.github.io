@@ -2,7 +2,7 @@
 @import url("https://use.typekit.net/cad3pph.css");
 
 div.container {
-    max-width: 30em;
+    max-width: 60em;
     margin: auto;
 }
 
@@ -19,6 +19,7 @@ nav ul {
     padding-bottom: 1em;
     padding-left: .5em;
     margin-left: 2em;
+    text-align: center;
 }
 
 nav ul li {
